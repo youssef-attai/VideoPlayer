@@ -6,6 +6,6 @@ As you can see, unless you have a video with the exact name of `Harvard CS50 Wee
 
 The video source can be set dynamically by the user via an `Open video file` button or something like that, I am just too lazy to do it.
 
-[Try it](https://youssef-attai.github.io/VideoPlayer)
+[Try it](https://youssef-attai.github.io/video-player)
 
 Thanks to [CodingNepal](https://www.youtube.com/watch?v=-r9TTW0D3t4)
